@@ -19,7 +19,7 @@ on Password click Store in vault. It will ask passowrd . Provide the one  the i 
 2. test command. java --version
 3. test command. node --version
 
-#Download the ZIP package of the code repository. and extract it out. 
+#Download the ZIP package of the code repository i ahve provided. and extract it out. 
 
 Run start-backend-server.bat
 Run start-frontend-server.bat
