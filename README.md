@@ -1,6 +1,5 @@
 # yeeyesBilling
 
-Install node.js from the link https://nodejs.org/en/download
 Install JDK_17 from here https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe ( sha256)
 Install MYSQL workbench from here https://dev.mysql.com/downloads/workbench/
 
@@ -17,13 +16,13 @@ on Password click Store in vault. It will ask passowrd . Provide the one  the i 
 #Successful Installation verification . 
 1. Open Cmd
 2. test command. java --version
-3. test command. node --version
+
 
 #Download the ZIP package of the code repository i ahve provided. and extract it out. 
 
-Run start-backend-server.bat
-Run start-frontend-server.bat
+Run start-server.bat
+
 
 #Hit the URL to access the application
-http://localhost:8081
+http://localhost:8080
 
