@@ -1,6 +1,7 @@
 # yeeyesBilling
 
 Install JDK_17 from here https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe ( sha256)
+
 Install MYSQL workbench from here https://dev.mysql.com/downloads/workbench/
 
 
