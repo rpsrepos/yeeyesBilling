@@ -25,5 +25,6 @@ Run start-server.bat
 
 
 #Hit the URL to access the application
+Once done you should be able to view the application.
 http://localhost:8080
 
